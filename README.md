@@ -1,4 +1,6 @@
-👋 Hey there, I'm Devang Gandhi
+
+
+ Hey there, I'm Devang Gandhi
 
 💻 Blockchain Developer | Full Stack Engineer | Web3 Enthusiast
 🎓 Passionate about building decentralized applications, smart contracts, and scalable systems.
@@ -69,12 +71,12 @@ When I’m not writing Solidity or debugging JS, you’ll find me:
 
 🌐 Portfolio Website
  (coming soon)
-💼 LinkedIn
+💼 LinkedIn: https://www.linkedin.com/in/devang-gandhi-917304213/
 
-🐦 Twitter / X
+🐦 Twitter / X :Dev_9007
 
-📧 devang@example.com
- (replace with your email)
+📧 devanggandhi04@gmail.com
+
 
 ⚡ Fun Fact
 
