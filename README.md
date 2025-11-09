@@ -1,8 +1,9 @@
+<p align="center">
+  <img src="https://github.com/Dev4057/Dev4057/blob/main/download.png" alt="Devang Gandhi Banner" width="100%" />
+</p>
 
-
- Hey there, I'm Devang Gandhi
-
-💻 Blockchain Developer | Full Stack Engineer | Web3 Enthusiast
+<h1 align="center">Hey 👋, I'm Devang Gandhi</h1>
+<h3 align="center">Web3 Developer | Blockchain Enthusiast | Full Stack Engineer</h3>
 🎓 Passionate about building decentralized applications, smart contracts, and scalable systems.
 🎯 On a journey to master Ethereum, Solidity, EVM architecture, smart contract security, and Web3 integration with Next.js, React, and TypeScript.
 
