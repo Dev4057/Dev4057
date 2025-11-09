@@ -68,13 +68,10 @@ When I’m not writing Solidity or debugging JS, you’ll find me:
 
 ☕ Jamming on creative ideas that blend music, code, and technology.
 
-📫 Connect with Me
-
-🌐 Portfolio Website
- (coming soon)
+📫 Connect with Me:
 💼 LinkedIn: https://www.linkedin.com/in/devang-gandhi-917304213/
 
-🐦 Twitter / X :Dev_9007
+🐦  X :[Dev_9007](https://x.com/Dev_9007)
 
 📧 devanggandhi04@gmail.com
 
