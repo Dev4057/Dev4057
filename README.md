@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Dev4057/Dev4057/blob/main/download.jpg" alt="Devang Gandhi Banner" width="100%" />
+  <img src="https://github.com/Dev4057/Dev4057/blob/main/Banner.jpg" alt="Devang Gandhi Banner" width="100%" />
 </p>
 
 <h1 align="center">Hey 👋, I'm Devang Gandhi</h1>
