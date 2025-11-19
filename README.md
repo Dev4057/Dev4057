@@ -74,8 +74,3 @@ When I’m not writing Solidity or debugging JS, you’ll find me:
 🐦  X :[Dev_9007](https://x.com/Dev_9007)
 
 📧 devanggandhi04@gmail.com
-
-
-⚡ Fun Fact
-
-I believe code is like music — it’s all about rhythm, harmony, and creativity. 🎶
