@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/Dev4057/Dev4057/blob/main/Banner.jpg" alt="Devang Gandhi Banner" width="100%" />
 </p>
-# Hey, I'm Devang Gandhi
+## Hey, I'm Devang Gandhi
 
 **Web3 Developer | Blockchain Enthusiast | Full Stack Engineer**
 
