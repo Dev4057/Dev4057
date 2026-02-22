@@ -33,13 +33,6 @@ On a journey to master **Ethereum, Solidity, EVM architecture, smart contract se
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 
-###Github Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Dev4057&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dev4057&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev4057&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
 ### Blockchain & Web3
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge\&logo=ethereum\&logoColor=white)
@@ -62,6 +55,13 @@ On a journey to master **Ethereum, Solidity, EVM architecture, smart contract se
 
 ---
 
+##Github Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Dev4057&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dev4057&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev4057&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
 ## Projects & Contributions
 
 ### DAO dApp
