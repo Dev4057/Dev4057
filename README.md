@@ -55,13 +55,6 @@ On a journey to master **Ethereum, Solidity, EVM architecture, smart contract se
 
 ---
 
-## Github Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Dev4057&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dev4057&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev4057&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
 ## Projects & Contributions
 
 ### DAO dApp
